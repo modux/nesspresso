@@ -1,9 +1,20 @@
-# nesspresso
+nesspresso Nessus Scan SSH Proxy
+===============================
+
+License
+-------
 Run credentialed authenticated Nessus scan / audit through web shell, bind shell or reverse shell
 
-Sash @ Modux 2014
 
-Run “credentialed” Nessus scans and audits through web, bind and reverse shells
+Description
+-----------
+
+Perform authenticated Nessus compliance checks, scans and patch audits of compromised hosts without credentials.
+
+This tool proxies the Nessus SSH connection through to your web, bind or reverse shells.
+
+Usage
+-----
 
 Currently only for compromised *nix hosts
 
@@ -20,3 +31,14 @@ Works quick and easy with web and bind shells
 For reverse shells you need to specify the port only
 
 
+
+
+Author
+------
+
+Sash (@secdefect) from Modux Digital Security
+
+Copyright
+---------
+
+&copy; 2014 Modux Digital Security
