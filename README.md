@@ -15,9 +15,4 @@ Works quick and easy with web and bind shells
 
 For reverse shells you need to specify the port only
 
-#---------#     #---------#     #--------#
-#         #     #         #     # Web/   #
-# Nessus  # --> # Local   # --> # Bind/  #
-#         #     #  SSH    #     # Reverse#
-#         #     #   Login #     # Shell  #
-#---------#     #---------#     #--------#
+
